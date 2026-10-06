@@ -2,6 +2,8 @@
 
 A terminal battle game written in TypeScript, emulating the Pokemon franchise's battle system. Pick two Pokemon and fight turn by turn, with stats, natures, type effectiveness, and move priority modeled after the main series.
 
+![Battle demo](docs/battle.gif)
+
 ## Features
 - Choose your Pokemon and your opponent's
 - Stats calculated from base stats, IVs, EVs, nature, and level
